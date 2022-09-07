@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Ant Commander (Pro) File Manager
 
-You can use the [editor on GitHub](https://github.com/japplis/ant-commander-doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Ant Commander](https://www.antcommander.com) is a file manager for Windows, Mac OS X and Linux.
+There are 2 versions of the file manager
+- Ant Commander Personal edition is a free file manager and targeted at a personal usage (Not yet released)
+- Ant Commander Pro is a paid file manager and targeted at a professional usage (Beta)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Principles
 
-### Markdown
+#### Plug-ins
+Plug-ins are type of panels that you can add to the user interface.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main plug-in used is _Directory Table_ which shows the directory files in a table
 
-```markdown
-Syntax highlighted code block
+The available plug-ins are:
+- Directory Table
+- Directory Tree
+- HTML Viewer
+- Thumbnails
 
-# Header 1
-## Header 2
-### Header 3
+Personal edition only:
+- Image Viewer
+- Text Editor
+- Command Line
 
-- Bulleted
-- List
+Pro version only:
+- Image Viewer Pro
+- Text Editor Pro
+- Command Line Pro
+- Binary Editor
+- Tree Map Grid
+- Applet Runner
+- SSH
+- Bean Shell
+- Bookmarks
+- Mega Toolbar
 
-1. Numbered
-2. List
+#### Panels
+Panels are instances of plug-ins.
+You can add panels in a new split (next or below the current selected panel) or in a new tab or in a separate window.
 
-**Bold** and _Italic_ and `Code` text
+#### Actions
+Actions are actions that you can perform in the application.
+Most of the actions are available in the menu bar of the application. The main actions are available in the toolbar and status bar of the application and of the panel.
+Example of actions: Go to a directory, Copy Files, Show Settings.
+Some actions are specific to a plug-in, like Zoom is only for the Image Viewer (Pro) plug-in.
+Some actions won't work with some plug-ins (like Go to a directory with Bean Shell plug-in)
+The main actions are listed in the _File -> Execute action_ (F9) action.
 
-[Link](url) and ![Image](src)
-```
+> Note that Ant Commander Pro contains many more actions than Ant Commander Personal edition
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Shortcut
+Shorcuts are keyboard key combinations that execute an action.
+For example ```F7``` key will open the create directory window.
+See the [list of Ant Commander Pro shortcuts](shortcuts.md)
 
-### Jekyll Themes
+#### File systems
+Ant Commander Pro support the following file systems: local (included network drives, USB keys), zip, jar, ftp, sftp, ftps, webdav, ram, tar, gzip, bzip2, http, https, lst
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/japplis/ant-commander-doc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Ant Commander Pro screenshot](https://www.antcommander.com/images/ant-commander-dual-table.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
