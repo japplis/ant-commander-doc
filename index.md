@@ -59,5 +59,5 @@ See the [list of Ant Commander Pro shortcuts](shortcuts.md)
 #### File systems
 Ant Commander Pro support the following file systems: local (included network drives, USB keys, external disks), zip, jar, ftp, sftp, ftps, webdav, ram, tar, gzip, bzip2, http, https, lst
 
-![Ant Commander Pro screenshot](https://www.antcommander.com/images/ant-commander-dual-table.png)
+![Ant Commander Pro screenshot](images/ant-commander-dual-table.png)
 
