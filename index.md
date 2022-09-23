@@ -49,13 +49,15 @@ The main actions are listed in the _File -> Execute action_ (F9) action.
 
 > Note that Ant Commander Pro contains many more actions than Ant Commander Personal edition
 
+- [Help rename multiple files](rename-multiple-files.md)
+
 #### Shortcut
 Shorcuts are keyboard key combinations that execute an action.
 For example ```F7``` key will open the create directory window.
 See the [list of Ant Commander Pro shortcuts](shortcuts.md)
 
 #### File systems
-Ant Commander Pro support the following file systems: local (included network drives, USB keys), zip, jar, ftp, sftp, ftps, webdav, ram, tar, gzip, bzip2, http, https, lst
+Ant Commander Pro support the following file systems: local (included network drives, USB keys, external disks), zip, jar, ftp, sftp, ftps, webdav, ram, tar, gzip, bzip2, http, https, lst
 
 ![Ant Commander Pro screenshot](https://www.antcommander.com/images/ant-commander-dual-table.png)
 
