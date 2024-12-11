@@ -16,6 +16,7 @@ The directory table panel will list files in a table.
 ![Directory table screenshot](images/directory-table.png)
 
 Here are the settings for the directory table panel
+
 ![Settings Directory table screenshot](images/directory-table-settings.png)
 
 ### Directory tree
@@ -26,7 +27,8 @@ Most of the time it will be linked to a directory table to show the files of the
 
 ![Directory tree screenshot](images/directory-tree.png)
 
-Here are the settings for the directory table panel
+Here are the settings for the directory tree panel
+
 ![Settings Directory tree screenshot](images/directory-tree-settings.png)
 
 ### Thumbnails
@@ -36,6 +38,7 @@ The thumbnails panel will show the images inside a directory as thumbnail.
 ![Thumbnails screenshot](images/thumbnails.png)
 
 Here are the settings for the thumbnails panel
+
 ![Settings thumbnail screenshot](images/thumbnails-settings.png)
 
 ## File Viewers
@@ -46,7 +49,8 @@ The Text Editor Pro panel is a text file viewer and editor.
 
 ![Text Editor Pro screenshot](images/text-editor-pro.png)
 
-Here are the settings for the thumbnails panel
+Here are the settings for the text editor pro panel
+
 ![Settings text editor pro screenshot](images/text-editor-pro-settings.png)
 
 ### Image Viewer Pro
@@ -55,7 +59,8 @@ The Image Viewer Pro panel is an image viewer.
 
 ![Image Viewer Pro screenshot](images/image-viewer-pro.png)
 
-Here are the settings for the thumbnails panel
+Here are the settings for the image viewer panel
+
 ![Settings image viewer pro screenshot](images/image-viewer-pro-settings.png)
 
 ### Binary Editor
@@ -77,9 +82,10 @@ This panel is used for example to show help sections.
 
 The Command Line Pro panel opens the default shell of your operating system.
 
-![Command Line Pro on Windows screenshot](images/command-line-pro-windows.png)
+![Command Line Pro on Windows screenshot](images/command-line-pro.png)
 
 Here are the settings for the command line pro panel
+
 ![Settings command line pro screenshot](images/command-line-pro-settings.png)
 
 ### Powershell

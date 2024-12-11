@@ -31,8 +31,10 @@ See [Ant Commander website](https://www.antcommander.com/pricing.html) for the d
 | Local disks             | zip/jar        | ftp       | Lst (Text file) |
 | USB Sticks              | tar            | sftp/ftps | GitHub          |
 | Mounted network drives  | gzip/bzip2     | WebDAV    | Cluster         |
-| Shared drives/UNC Paths |                | http(s)   | Bookmark        |
-|                         |                | S3        | RAM             |
+| Shared drives/UNC Paths | Z, xz          | http(s)   | Bookmark        |
+|                         | LZ4            | S3        | RAM             |
+|                         |                | Smb, smb2 |                 |
+|                         |                | NFS3      |                 |
 
 #### Actions
 [Actions](actions.md) are actions that you can perform in the application.
@@ -44,7 +46,7 @@ Example of actions: Go to a directory, Copy Files, Show Settings.
 Some actions can be disable if the action is not available for the currently selected panel, currently used file system or directory.
 The enabled actions are listed in the _File -> Execute action_ (<kbd>F9</kbd>) action.
 
-#### Shortcut
+#### Shortcuts
 Shorcuts are keyboard key combinations that execute an action.
 For example ```F7``` key will open the create directory window.
 
