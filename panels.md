@@ -6,12 +6,12 @@
 
 The directory table panel will list files in a table.
 
-* Click on the header to sort by name, extension, size or date.
-* Click again to sort in reverse order (or ctrl + click to directly sort in reverse order)
-* Double click to open a directory or file
-* Or use alt + single click to open a directory or file
-* Use ctrl + F to access the search field
-* Once in the search field, use ctrl + H to access the help section for the search
+* _Click_ on the header to sort by name, extension, size or date.
+* Click again to sort in reverse order (or _ctrl + click_ to directly sort in reverse order)
+* _Double click_ to open a directory or file
+* Or use _alt + single click_ to open a directory or file
+* Use _ctrl + F_ to access the search field
+* Once in the search field, use _ctrl + H_ to access the help section for the search
 
 ![Directory table screenshot](images/directory-table.png)
 
@@ -33,7 +33,7 @@ Here are the settings for the directory tree panel
 
 ### Thumbnails
 
-The thumbnails panel will show the images inside a directory as thumbnail.
+The thumbnails panel will show the images inside a directory as thumbnails.
 
 ![Thumbnails screenshot](images/thumbnails.png)
 
@@ -90,7 +90,7 @@ Here are the settings for the command line pro panel
 
 ### Powershell
 
-For Windows users, you have the possibility to open Powershell instead of the default command line using this panel.
+You have the possibility to open Powershell instead of the default command line using this panel.
 
 ![Powershell screenshot](images/powershell.png)
 
@@ -110,11 +110,9 @@ For Windows users, if you have Windows Subsytem for Linux 2 install, you will ha
 
 If you want to connect to a remote server, you have the option to have SSH in a panel.
 
-### Bean Shell
-
-Bean Shell is a shell that allows to write and execute code. The language is similar to Java. See [Bean shell website](https://github.com/beanshell/beanshell) for more info.
-
-![Bean Shell screenshot](images/bean-shell.png)
+[//]: # (### Bean Shell)
+[//]: # (Bean Shell is a shell that allows to write and execute code. The language is similar to Java. See [Bean shell website](https://github.com/beanshell/beanshell) for more info.)
+[//]: # (![Bean Shell screenshot](images/bean-shell.png))
 
 ## Other
 

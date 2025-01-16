@@ -1,4 +1,4 @@
-# Multiple file rename
+# Multiple files rename
 
 Multiple file rename is only available in [Ant Commander Pro file manager](https://www.antcommander.com/)
 

@@ -1,3 +1,5 @@
+#Bookmarks actions
+
 <a id="ShowPlugInBookmarks"></a>
 
 ## ![Show plug-in bookmarks icon](images/ShowPlugInBookmarks-icon.png) Show plug-in bookmarks

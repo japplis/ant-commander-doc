@@ -1,8 +1,10 @@
-<a id="EditorReplaceAll"></a>
+# Text editor actions
 
-## ![Replace All icon](images/EditorReplaceAll-icon.png) Replace All
+<a id="Undo"></a>
 
-Replace all occurrence of the search text with the specified replacement text
+## ![Undo icon](images/Undo-icon.png) Undo
+
+Shortcut: <kbd>Ctrl</kbd> + <kbd>Z</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>Z</kbd>)
 
 <a id="Redo"></a>
 
@@ -52,15 +54,15 @@ Shortcut: <kbd>Ctrl</kbd> + <kbd>S</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>S
 
 Paste the content of the clipboard to the current location of the caret
 
-<a id="Undo"></a>
-
-## ![Undo icon](images/Undo-icon.png) Undo
-
-Shortcut: <kbd>Ctrl</kbd> + <kbd>Z</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>Z</kbd>)
-
 <a id="EditorReplace"></a>
 
 ## ![Replace icon](images/EditorReplace-icon.png) Replace
 
 Replace the search text with the specified replacement text
+
+<a id="EditorReplaceAll"></a>
+
+## ![Replace All icon](images/EditorReplaceAll-icon.png) Replace All
+
+Replace all occurrence of the search text with the specified replacement text
 

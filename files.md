@@ -1,8 +1,4 @@
-<a id="GitIgnore"></a>
-
-## ![Git ignore icon](images/GitIgnore-icon.png) Git ignore
-
-Add the selected files to Git ignore
+# File actions
 
 <a id="ProjectDashboard"></a>
 
@@ -74,6 +70,8 @@ Change the last modified date/time of selected files and directories to the spec
 
 ## ![Copy and Rename Files icon](images/CopyWithMapping-icon.png) Copy and Rename Files
 
+Copy and rename selected files at the same time
+
 ![Copy and Rename Files screenshot](images/CopyWithMapping-screenshot.png)
 
 <a id="CopyNames"></a>
@@ -95,12 +93,6 @@ Empty the content of the selected files
 ## ![Store directory files in text (.lst) icon](images/CreateListText-icon.png) Store directory files in text (.lst)
 
 Create a .lst file containing the list of the files and (sub-)directories of the current location. This .lst file then can be opened using the lst file system.
-
-<a id="GitAdd"></a>
-
-## ![Git add icon](images/GitAdd-icon.png) Git add
-
-Execute a Git add command for selected files
 
 <a id="NewFile"></a>
 
@@ -270,12 +262,6 @@ Rename the extension of the selected files
 
 Change the last modified date/time of selected files and directories to now
 
-<a id="CreateDemoFiles"></a>
-
-## ![Create demo files icon](images/CreateDemoFiles-icon.png) Create demo files
-
-Create several demo files and directory in order for you to practice with this file manager without touching your personal files
-
 <a id="CopyFilesFlat"></a>
 
 ## ![Copy Files with flatten directory structure icon](images/CopyFilesFlat-icon.png) Copy Files with flatten directory structure
@@ -336,6 +322,8 @@ Create multiple new files
 
 ## ![Show properties icon](images/ShowFileProperties-icon.png) Show properties
 
+Show file properties for Windows local files
+
 <a id="MatchLstRoot"></a>
 
 ## ![Match Lst with Directory icon](images/MatchLstRoot-icon.png) Match Lst with Directory
@@ -393,6 +381,18 @@ For Windows, open the selected files with another software than the default one
 Combine the content of the selected files in one file
 
 ![Combine files screenshot](images/Combine-screenshot.png)
+
+<a id="GitAdd"></a>
+
+## ![Git add icon](images/GitAdd-icon.png) Git add
+
+Execute a Git add command for selected files
+
+<a id="GitIgnore"></a>
+
+## ![Git ignore icon](images/GitIgnore-icon.png) Git ignore
+
+Add the selected files to Git ignore
 
 <a id="ViewInGithub"></a>
 

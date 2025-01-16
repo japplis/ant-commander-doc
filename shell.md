@@ -1,3 +1,5 @@
+# Shell settings
+
 <a id="ClearScreen"></a>
 
 ## ![Clear screen icon](images/ClearScreen-icon.png) Clear screen

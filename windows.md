@@ -1,3 +1,5 @@
+# Windows actions
+
 <a id="LockStation"></a>
 
 ## ![Lock Station icon](images/LockStation-icon.png) Lock Station

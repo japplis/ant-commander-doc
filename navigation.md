@@ -1,3 +1,5 @@
+# Navigation actions
+
 <a id="GoToGithub"></a>
 
 ## ![Go to GitHub icon](images/GoToGithub-icon.png) Go to GitHub
@@ -176,6 +178,8 @@ Go to the location that is in the clipboard
 
 ## ![Change Location icon](images/ChangeLocation-icon.png) Change Location
 
+Change the panel location of the target panel to match the source panel
+
 <a id="GoToTextField"></a>
 
 ## ![Go to text field icon](images/GoToTextField-icon.png) Go to text field
@@ -205,6 +209,8 @@ Open the previous file in the same directory
 <a id="CloseConnection"></a>
 
 ## ![Close connection icon](images/CloseConnection-icon.png) Close connection
+
+Close the network connection for network file systems
 
 <a id="ShowPopUpPlugInBookmarks"></a>
 

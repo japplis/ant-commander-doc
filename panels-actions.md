@@ -1,3 +1,5 @@
+# Panel actions
+
 <a id="RenameTabPanel"></a>
 
 ## ![Rename Tab icon](images/RenameTabPanel-icon.png) Rename Tab

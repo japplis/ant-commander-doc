@@ -1,3 +1,4 @@
+# Directory Table actions
 <a id="ClearSelection"></a>
 
 ## ![Clear Selection icon](images/ClearSelection-icon.png) Clear Selection

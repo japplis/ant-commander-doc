@@ -12,8 +12,8 @@ Local files includes
 Here are a few example of local files:
 * C:\Temp\Test
 * /usr/bin/bash.txt
-* \\wsl.localhost\Ubuntu\tmp
-* file://C:/Ima/Decoration/license.txt
+* \\\\wsl.localhost\Ubuntu\tmp
+* file:///C:/Ima/Decoration/license.txt
 
 ## Compressed
 
@@ -55,9 +55,9 @@ The following network file systems are currently supported:
 * Samba2 (smb2://)
 * Amazon S3
 
-Use the Navigation -> Go To... action to go to a network directory.
+Use the _Navigation -> Go To..._ action to go to a network directory.
 
-For Amazon S3, use F9 -> Go to S3
+For Amazon S3, use _F9 -> Go to S3_
 
 Note that you can bookmark it afterwards.
 
@@ -67,23 +67,25 @@ Note that you can bookmark it afterwards.
 
 Lst files are text files containing list of files with size and last modified date.
 
-Use F9 -> Store directory files in text to create a lst file of a directory.
+Use _F9 -> Store directory files in text_ to create a lst file of a directory.
 
 To open it, just double click on the created .lst file.
 
-This file system is read only and cannot view file content.
+This file system is read only and cannot view file content unless the listed directory is still accessible.
 
-It is possible to match a .lst file with a directory, for example to quickly search files and still be able to open files.
+It is possible to match a .lst file with a directory with _F9 -> Match Lst with Directory_, for example to quickly search files and still be able to open files.
 
 ### GitHub
 
 The github file system allows to browse a remote github repository in Ant Commander Pro like a file system.
 
-Use F9 -> Go to GitHub action to open this file system
+Use _F9 -> Go to GitHub_ action to open this file system
 
 I highly advise in creating an API Token key to be able to do more requests to the GitHub API.
 
 The URL should look like https://github.com/organization/project-name/tree/branch-name
+
+The GitHub file system is read-only.
 
 ### Cluster
 
@@ -102,12 +104,23 @@ Note that technically this is another file system.
 
 The bookmark file system will show the bookmark like if it was a directory. Clicking on a bookmark (file or directory) will open the file or directory.
 
-Use `Navigation -> Go To... -> Drives drop down` to go to a bookmark file system.
+Use _Navigation -> Go To... -> Drives drop down_ to go to a bookmark file system.
+
+### Bookmark file
+
+The bookmark file file system is a file system that takes a text file (.bookmarks extension) as input and create a file system based on the bookmarks in text file.
+
+Like for Lst or compressed file, just double click on the .bookmarks text file to open the file system.
+
+You can manipulate the bookmarks in this file system by copying files, moving files, renaming files, creating folders.
+
+This file system is in beta stage, so you may experience more bugs. In this case, you can always edit the .bookmarks file using a text editor.
 
 ### RAM
 
 Ram will store files and directories in the RAM of the computer.
-Note that as soon as you close the application, all files and directory in the file system will be permanently deleted.
+
+Note that as soon as you close the application, all files and directories in this file system will be permanently deleted.
 
 ## URL
 File locations are stored with URLs. More info at the [Commons VFS website](https://commons.apache.org/proper/commons-vfs/filesystems.html)

@@ -1,3 +1,5 @@
+# Generic action
+
 <a id="About"></a>
 
 ## ![About icon](images/About-icon.png) About
@@ -9,6 +11,8 @@ Show the about window of this application. The about window includes the version
 <a id="SendLogs"></a>
 
 ## ![Send logs icon](images/SendLogs-icon.png) Send logs
+
+In connection settings, action to send the application logs to a server for example to report an error
 
 <a id="CopyFileLocation"></a>
 

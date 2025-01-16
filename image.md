@@ -1,3 +1,5 @@
+# Image actions
+
 <a id="ZoomOne"></a>
 
 ## ![Zoom 1:1 icon](images/ZoomOne-icon.png) Zoom 1:1

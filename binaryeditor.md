@@ -1,3 +1,5 @@
+# Binary editor actions
+
 <a id="BinaryEditorCut"></a>
 
 ## ![Cut icon](images/BinaryEditorCut-icon.png) Cut
