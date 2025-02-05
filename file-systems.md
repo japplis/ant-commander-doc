@@ -8,6 +8,13 @@ Local files includes
 * Mounted directories
 * Mounted Network Drives
 * Shared drives/UNC Paths
+* WSL (Windows Subsystem for Linux) drive
+* Docker client drive
+* Google Drive <sup>1</sup>
+* OneDrive <sup>1</sup>
+* Dropbox <sup>1</sup>
+
+_<sup>1</sup> The drive client application needs to be running to synchronize the files with the server_
 
 Here are a few example of local files:
 * C:\Temp\Test

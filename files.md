@@ -308,7 +308,23 @@ Show a window that help you find the difference between 2 directories
 
 ## ![Special rename multiple files icon](images/RenameFilesSpecial-icon.png) Special rename multiple files
 
-Rename selected files based on files criteria
+Rename selected files based on special files criteria.
+
+Note that the extension is not included in the rename.
+
+* Rename files by truncating the file name to the first 'x' characters
+* Change the case of the files
+* Append a number to the filenames
+* Convert accents and diacritics in filename to ascii (so removing the accent of diacritic of the letter)
+
+  Note that if you want to remove all specific non-ascii characters, you can do a find \p{M} replace with nothing in the regular multi-rename tool with regular expression enabled.
+* Rename using the provided file mapping.
+
+  The mapping should be in the form of _Filename1->NewName1;Filename2->NewName2;..._
+
+  You can click on the edit button next to the field to make it easier to enter the mapping.
+
+  In the edit text field you can use tabs as separator between old filename and new filename to it makes it easier to import text from Excel or another table tool.
 
 <a id="NewFiles"></a>
 
@@ -352,6 +368,19 @@ Move selected files to created sub-directories based on file last modified date 
 
 ![Categorize files screenshot](images/Categorize-screenshot.png)
 
+Examples for file name:
+* _.*\.(.*)_ classifies the selected files in sub-directories based on file extension
+* _([^-]+)_ classifies the selected files in sub-directories based on text that is defined before the first hyphen in the file name
+* _(\d+).*\._ classifies the selected files in sub-directories based on the first number that is specified in the file name (before the extension)
+
+More about regular expression [here](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
+
+Examples for file date:
+- _MMM_ classifies the selected files by short months (Jan, Feb, Mar, ...)
+- _'Invoice-'MMMM-YYYY_ classifies the selected files by month and year with 'Invoice-' as prefix (Invoice-January-2024, Invoice-February-2023, ...)
+
+More about date pattern [here](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/time/format/DateTimeFormatter.html)
+ 
 <a id="CopyFileNames"></a>
 
 ## ![Copy Names in Clipboard icon](images/CopyFileNames-icon.png) Copy Names in Clipboard

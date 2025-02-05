@@ -106,14 +106,6 @@ For Windows users, if you have Windows Subsytem for Linux 2 install, you will ha
 
 ![WSL screenshot](images/wsl.png)
 
-### SSH
-
-If you want to connect to a remote server, you have the option to have SSH in a panel.
-
-[//]: # (### Bean Shell)
-[//]: # (Bean Shell is a shell that allows to write and execute code. The language is similar to Java. See [Bean shell website](https://github.com/beanshell/beanshell) for more info.)
-[//]: # (![Bean Shell screenshot](images/bean-shell.png))
-
 ## Other
 
 ### Tree Map Grid
