@@ -316,15 +316,9 @@ Note that the extension is not included in the rename.
 * Change the case of the files
 * Append a number to the filenames
 * Convert accents and diacritics in filename to ascii (so removing the accent of diacritic of the letter)
-
-  Note that if you want to remove all specific non-ascii characters, you can do a find \p{M} replace with nothing in the regular multi-rename tool with regular expression enabled.
 * Rename using the provided file mapping.
 
-  The mapping should be in the form of _Filename1->NewName1;Filename2->NewName2;..._
-
-  You can click on the edit button next to the field to make it easier to enter the mapping.
-
-  In the edit text field you can use tabs as separator between old filename and new filename to it makes it easier to import text from Excel or another table tool.
+For more details see [Help rename multiple files](rename-multiple-files.md)
 
 <a id="NewFiles"></a>
 
