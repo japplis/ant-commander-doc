@@ -20,8 +20,13 @@ You can use regular expression with the _Reg Exp_ button to perform for advanced
 | Prefix files | ^ | prefix- | image001.jpg -> prefix-image001.jpg |
 | Suffix files | $ | -suffix | image001.jpg -> image001-suffix.jpg |
 | Groups | (\[a-zA-Z\]+)(\d+) | $1-$2 | image001.jpg -> image-001.jpg |
+| Use file name | .+ | $0-test | image001.jpg -> image001-test.jpg |
 
 More about regular expression pattern [here](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html)</a>
+
+> Note: Do NOT use _.*_ but _.+_ to match the file name in the regular expression
+
+> If no groups are created in the regular expression with parenthesis, only $0 can be used to represent the text matching the regular expression
 
 ### Special replacement
 
