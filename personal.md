@@ -5,7 +5,7 @@ Ant Commander Personal is a free file manager for personal use.
 Ant Commander Personal is a subset of Ant Commander Pro. It supports less file systems, less panels types and less actions.
 
 ### Panels
-[Panels](panels.md) are used to mostly view files and directories. You can have multiple panels per tab or open one in a new window.
+[Panels](panel-types.md) are used to mostly view files and directories. You can have multiple panels per tab or open one in a new window.
 
 | Directories     | Files        | Shell            |
 |-----------------|--------------|------------------|
@@ -43,16 +43,16 @@ Ant Commander Personal is a subset of Ant Commander Pro. It supports less file s
 * ![Start Shell icon](images/Terminal-icon.png) [Start Shell](files.md#Terminal)
 
 ### Panels
-* ![Add Panel icon](images/AddPanel-icon.png) [Add Panel](panels-actions.md#AddPanel)
-* ![Clone Panel icon](images/Clone-icon.png) [Clone Panel](panels-actions.md#Clone)
-* ![Clone Tab icon](images/CloneTabPanel-icon.png) [Clone Tab](panels-actions.md#CloneTabPanel)
-* ![Quick View icon](images/QuickView-icon.png) [Quick View](panels-actions.md#QuickView)
-* ![Remove Panel icon](images/RemovePanel-icon.png) [Remove Panel](panels-actions.md#RemovePanel)
-* ![Remove Tab icon](images/RemoveTabPanel-icon.png) [Remove Tab](panels-actions.md#RemoveTabPanel)
-* ![Rename Tab icon](images/RenameTabPanel-icon.png) [Rename Tab](panels-actions.md#RenameTabPanel)
-* ![Shift Tab Left icon](images/ShiftTabPanelLeft-icon.png) [Shift Tab Left](panels-actions.md#ShiftTabPanelLeft)
-* ![Shift Tab Right icon](images/ShiftTabPanelRight-icon.png) [Shift Tab Right](panels-actions.md#ShiftTabPanelRight)
-* ![Show search help icon](images/ShowSearchHelp-icon.png) [Show search help](panels-actions.md#ShowSearchHelp)
+* ![Add Panel icon](images/AddPanel-icon.png) [Add Panel](panels.md#AddPanel)
+* ![Clone Panel icon](images/Clone-icon.png) [Clone Panel](panels.md#Clone)
+* ![Clone Tab icon](images/CloneTabPanel-icon.png) [Clone Tab](panels.md#CloneTabPanel)
+* ![Quick View icon](images/QuickView-icon.png) [Quick View](panels.md#QuickView)
+* ![Remove Panel icon](images/RemovePanel-icon.png) [Remove Panel](panels.md#RemovePanel)
+* ![Remove Tab icon](images/RemoveTabPanel-icon.png) [Remove Tab](panels.md#RemoveTabPanel)
+* ![Rename Tab icon](images/RenameTabPanel-icon.png) [Rename Tab](panels.md#RenameTabPanel)
+* ![Shift Tab Left icon](images/ShiftTabPanelLeft-icon.png) [Shift Tab Left](panels.md#ShiftTabPanelLeft)
+* ![Shift Tab Right icon](images/ShiftTabPanelRight-icon.png) [Shift Tab Right](panels.md#ShiftTabPanelRight)
+* ![Show search help icon](images/ShowSearchHelp-icon.png) [Show search help](panels.md#ShowSearchHelp)
 
 ### Navigation
 * ![Add Bookmark icon](images/AddBookmark-icon.png) [Add Bookmark](navigation.md#AddBookmark)

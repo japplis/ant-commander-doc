@@ -188,6 +188,24 @@ Open a window that allows you to enter the url of the location you want to go to
 
 ![Go to text field screenshot](images/GoToTextField-screenshot.png)
 
+Ant Commander Pro supports special macros for some directories (e.g. &lt;home&gt;\Documents):
+* &lt;home&gt; or ~ : User home directory
+* &lt;temp&gt; : User temporary directory
+* &lt;root&gt; : Root of the user directory
+* &lt;clipboard&gt; : The content of the clipboard
+* &lt;Env.*&gt; : A directory specified in an environment variable (e.g. &lt;Env.windir&gt;\system32)
+* &lt;Now.pattern&gt; : Replace pattern with the current date (e.g. &lt;home&gt;\Documents\Reports_&lt;Now.YYYY-MM-dd&gt;)
+* <antcommander.data> : The Ant Commander data directory
+* <antcommander.app> : The Ant Commander application directory
+* <antcommander.jar> : The location of the AntCommander.jar
+* <super.bookmark1> (2,3) : The location specified in the super bookmark 1 (2,3)
+* <selected.file> : The currently selected file (or 1st file selected if multiple)
+* <selected.file.x> : The x currently selected file when multiple are selected
+* <current.location> : The currently selected panel location
+* <Win.key> : The Windows shell folder defined by key in HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders in the registry (e.g. <Win.My Pictures>)
+* <default> : The OS default directory (e.g. <home>\Documents on Windows)
+* <"HK..."> : The directory or file defined in the Windows registry (e.g. <"HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders" /v "Local AppData">
+
 <a id="Back"></a>
 
 ## ![Back icon](images/Back-icon.png) Back

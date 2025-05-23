@@ -1,135 +1,192 @@
-# Panels
+# Panel actions
 
-## Directory Panels
+<a id="RenameTabPanel"></a>
 
-### Directory table
+## ![Rename Tab icon](images/RenameTabPanel-icon.png) Rename Tab
 
-The directory table panel will list files in a table.
+Rename the current tab
 
-* _Click_ on the header to sort by name, extension, size or date.
-* Click again to sort in reverse order (or _ctrl + click_ to directly sort in reverse order)
-* _Double click_ to open a directory or file
-* Or use _alt + single click_ to open a directory or file
-* Use _ctrl + F_ to access the search field
-* Once in the search field, use _ctrl + H_ to access the help section for the search
+![Rename Tab screenshot](images/RenameTabPanel-screenshot.png)
 
-![Directory table screenshot](images/directory-table.png)
+<a id="ReplacePanel"></a>
 
-Here are the settings for the directory table panel
+## ![Replace Panel icon](images/ReplacePanel-icon.png) Replace Panel
 
-![Settings Directory table screenshot](images/directory-table-settings.png)
+Replace the currently selected panel with a panel of another type
 
-### Directory tree
+![Replace Panel screenshot](images/ReplacePanel-screenshot.png)
 
-The directory tree panel will list sub-directories in a tree.
+<a id="PanelImageToClipboard"></a>
 
-Most of the time it will be linked to a directory table to show the files of the selected branch of the tree.
+## ![Screenshot panel to clipboard icon](images/PanelImageToClipboard-icon.png) Screenshot panel to clipboard
 
-![Directory tree screenshot](images/directory-tree.png)
+Copy the inside of the current panel as an image to the clipboard. If there is a scroll bar, the entire content is in the image
 
-Here are the settings for the directory tree panel
+![Screenshot panel to clipboard screenshot](images/PanelImageToClipboard-screenshot.png)
 
-![Settings Directory tree screenshot](images/directory-tree-settings.png)
+<a id="LinkPanel"></a>
 
-### Thumbnails
+## ![Link selection to next panel icon](images/LinkPanel-icon.png) Link selection to next panel
 
-The thumbnails panel will show the images inside a directory as thumbnails.
+Link the selected of a panel to another one that show the selected one
 
-![Thumbnails screenshot](images/thumbnails.png)
+<a id="ViewPanelImageToClipboard"></a>
 
-Here are the settings for the thumbnails panel
+## ![Screenshot selected panel to clipboard icon](images/ViewPanelImageToClipboard-icon.png) Screenshot selected panel to clipboard
 
-![Settings thumbnail screenshot](images/thumbnails-settings.png)
+Copy the current panel as the image to the clipboard including toolbar and status bar
 
-## File Viewers
+![Screenshot selected panel to clipboard screenshot](images/ViewPanelImageToClipboard-screenshot.png)
 
-### Text Editor Pro
+<a id="ShowTopUsedExecution"></a>
 
-The Text Editor Pro panel is a text file viewer and editor.
+## ![Show Top Used Files icon](images/ShowTopUsedExecution-icon.png) Show Top Used Files
 
-![Text Editor Pro screenshot](images/text-editor-pro.png)
+Show a window with a list of the top opened files
 
-Here are the settings for the text editor pro panel
+![Show Top Used Files screenshot](images/ShowTopUsedExecution-screenshot.png)
 
-![Settings text editor pro screenshot](images/text-editor-pro-settings.png)
+<a id="ShowSearchHelp"></a>
 
-### Image Viewer Pro
+## ![Show search help icon](images/ShowSearchHelp-icon.png) Show search help
 
-The Image Viewer Pro panel is an image viewer.
+Show the help page of the search field
 
-![Image Viewer Pro screenshot](images/image-viewer-pro.png)
+![Show search help screenshot](images/ShowSearchHelp-screenshot.png)
 
-Here are the settings for the image viewer panel
+<a id="ShiftTabPanelRight"></a>
 
-![Settings image viewer pro screenshot](images/image-viewer-pro-settings.png)
+## ![Shift Tab Right icon](images/ShiftTabPanelRight-icon.png) Shift Tab Right
 
-### Binary Editor
+Move the current tab to 1 slot right (if possible)
 
-The Binary Editor panel allows to view content of files when they are not text files. 
-I would advice to not edit the file unless you are sure of what you're doing.
+<a id="QuickView"></a>
 
-![Binary Editor screenshot](images/binary-editor.png)
+## ![Quick View icon](images/QuickView-icon.png) Quick View
 
-### HTML Viewer
+Open a new window with a view panel of the selected file
 
-The HTML Viewer panel is a panel to view basic HTML (3.2) content.
-I would advice againts using it to view real website. It doesn't interpret CSS or JavaScript. 
-This panel is used for example to show help sections.
+Shortcut: <kbd>F3</kbd>
 
-## Shells
+![Quick View screenshot](images/QuickView-screenshot.png)
 
-### Command Line Pro
+<a id="ShiftTabPanelLeft"></a>
 
-The Command Line Pro panel opens the default shell of your operating system.
+## ![Shift Tab Left icon](images/ShiftTabPanelLeft-icon.png) Shift Tab Left
 
-![Command Line Pro on Windows screenshot](images/command-line-pro.png)
+Move the current tab to 1 slot left (if possible)
 
-Here are the settings for the command line pro panel
+<a id="UnlinkPanel"></a>
 
-![Settings command line pro screenshot](images/command-line-pro-settings.png)
+## ![Unlink selection from next panel icon](images/UnlinkPanel-icon.png) Unlink selection from next panel
 
-### Powershell
+Unlink previously linked panel
 
-You have the possibility to open Powershell instead of the default command line using this panel.
+<a id="RemoveTabPanel"></a>
 
-![Powershell screenshot](images/powershell.png)
+## ![Remove Tab icon](images/RemoveTabPanel-icon.png) Remove Tab
 
-### Git bash / Cygwin
+Remove the current tab
 
-For Windows users, you have Cygwin or Git bash in your PATH environment variable, you will have the option to use it in a panel.
+<a id="ReplacePanelOneUp"></a>
 
-![Git bash screenshot](images/git-bash.png)
+## ![Parent in Panel icon](images/ReplacePanelOneUp-icon.png) Parent in Panel
 
-### WSL2
+Replace the currently selected view file panel with a directory table of the parent directory
 
-For Windows users, if you have Windows Subsytem for Linux 2 install, you will have the option to use it in a panel.
+Shortcut: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>UP</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>⌥ Option</kbd> + <kbd>UP</kbd>)
 
-![WSL screenshot](images/wsl.png)
+<a id="RemovePanel"></a>
 
-## Other
+## ![Remove Panel icon](images/RemovePanel-icon.png) Remove Panel
 
-### Tree Map Grid
+Remove the currently selected panel
 
-Tree Map Grid panel will show files and directories inside a directory in a grid. The size of each cell is proportianal to the size of the file or directory.
-Sub-directories are buttons that can be clicked on to navigate to this sub-directory.
+Shortcut: <kbd>Ctrl</kbd> + <kbd>W</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>W</kbd>)
 
-![Tree Map Grid screenshot](images/tree-map-grid.png)
+<a id="ShowClipboard"></a>
 
-### Applet Runner
+## ![Show clipboard icon](images/ShowClipboard-icon.png) Show clipboard
 
-Applet Runner panel allows to run Java applets inside a panel. It includes more than 100 applets in the bookmarks.
+Open a view file panel with the content of the clipboard
 
-See [Applet Runner website](https://www.japplis.com/applet-runner/) for more info.
+![Show clipboard screenshot](images/ShowClipboard-screenshot.png)
 
-![Applet Runner screenshot](images/applet-runner.png)
+<a id="ReplacePanelPreview"></a>
 
-Here are the settings for the Applet Runner panel
-![Settings Applet Runner screenshot](images/applet-runner-settings.png)
+## ![Preview in Panel icon](images/ReplacePanelPreview-icon.png) Preview in Panel
 
-### Bookmark
+Replace the currently selected panel with a view panel of the selected file
 
-Bookmark panel shows your bookmarks in a panel. Note that will panel will probably be replaced by the bookmark file system.
+Shortcut: <kbd>Shift</kbd> + <kbd>F3</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>F3</kbd>)
 
-### Mega Toolbar
+<a id="PanelConfiguration"></a>
 
-Mega toolbar panel will show buttons for different actions in a panel.
+## ![Manage panels icon](images/PanelConfiguration-icon.png) Manage panels
+
+Manage the panels in the main window
+
+![Manage panels screenshot](images/PanelConfiguration-screenshot.png)
+
+<a id="AddTab"></a>
+
+## ![Add tab from presets icon](images/AddTab-icon.png) Add tab from presets
+
+Add a new tab with the defined panels and parameters
+
+![Add tab from presets screenshot](images/AddTab-screenshot.png)
+
+<a id="QuickViewSplit"></a>
+
+## ![Open in Split icon](images/QuickViewSplit-icon.png) Open in Split
+
+Open a new view panel of the selected file in a new split
+
+<a id="ViewportImageToClipboard"></a>
+
+## ![Screenshot view in panel to clipboard icon](images/ViewportImageToClipboard-icon.png) Screenshot view in panel to clipboard
+
+Copy the visible part of the main component of the panel as image to the clipboard
+
+![Screenshot view in panel to clipboard screenshot](images/ViewportImageToClipboard-screenshot.png)
+
+<a id="CloneTabPanel"></a>
+
+## ![Clone Tab icon](images/CloneTabPanel-icon.png) Clone Tab
+
+Clone the current tab in a new tab
+
+<a id="QuickViewTab"></a>
+
+## ![Open in Tab icon](images/QuickViewTab-icon.png) Open in Tab
+
+Open a new tab with a view panel of the selected file
+
+<a id="AddPanel"></a>
+
+## ![Add Panel icon](images/AddPanel-icon.png) Add Panel
+
+Add a new panel. Show a window
+
+Shortcut: <kbd>Ctrl</kbd> + <kbd>N</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>N</kbd>)
+
+![Add Panel screenshot](images/AddPanel-screenshot.png)
+
+<a id="ExecuteCommand"></a>
+
+## ![Execute command icon](images/ExecuteCommand-icon.png) Execute command
+
+Execute a command line in a new shell window
+
+Shortcut: <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>F9</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>F9</kbd>)
+
+![Execute command screenshot](images/ExecuteCommand-screenshot.png)
+
+<a id="Clone"></a>
+
+## ![Clone Panel icon](images/Clone-icon.png) Clone Panel
+
+Clone the currently selected panel
+
+![Clone Panel screenshot](images/Clone-screenshot.png)
+

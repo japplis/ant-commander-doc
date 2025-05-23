@@ -11,7 +11,7 @@
 * ![Files icon](images/files-setting-icon.png) [Files](#files)
 * ![Bookmarks icon](images/bookmarks-setting-icon.png) [Bookmarks](#bookmarks)
 
-For panels settins, see [panels](panels.md)
+For panels settins, see [panels](panel-types.md)
 
 <a name="general"></a>
 

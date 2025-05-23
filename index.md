@@ -11,7 +11,7 @@ See [Ant Commander website](https://www.antcommander.com/pricing.html) for the d
 ### Principles
 
 #### Panels
-[Panels](panels.md) are used to mostly view files and directories. You can have multiple panels per tab or open one in a new window.
+[Panels](panel-types.md) are used to mostly view files and directories. You can have multiple panels per tab or open one in a new window.
 
 | Directories     | Files            | Shell            | Other         |
 |-----------------|------------------|------------------|---------------|
