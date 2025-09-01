@@ -14,7 +14,7 @@ Show different statistic about the current project location
 
 Rename selected file
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>F2</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>F2</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>F2</kbd> (<kbd>⌘</kbd> + <kbd>F2</kbd>)
 
 ![Rename File screenshot](images/RenameFile-screenshot.png)
 
@@ -194,7 +194,7 @@ Rename selected files. Click on the help button of the rename form for more help
 
 For more details see [Help rename multiple files](rename-multiple-files.md)
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>R</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>R</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>R</kbd> (<kbd>⌘</kbd> + <kbd>R</kbd>)
 
 <a id="OpenFileExplorer"></a>
 
@@ -244,7 +244,7 @@ Shortcut: <kbd>F6</kbd>
 
 Permanently delete selected files and directories
 
-Shortcut: <kbd>Shift</kbd> + <kbd>DELETE</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>DELETE</kbd>)
+Shortcut: <kbd>Shift</kbd> + <kbd>DELETE</kbd> (<kbd>⇧</kbd> + <kbd>DELETE</kbd>)
 
 ![Delete permanently screenshot](images/DeleteFilePermanently-screenshot.png)
 

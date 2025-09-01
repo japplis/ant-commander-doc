@@ -4,13 +4,13 @@
 
 ## ![Undo icon](images/Undo-icon.png) Undo
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>Z</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>Z</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>Z</kbd> (<kbd>⌘</kbd> + <kbd>Z</kbd>)
 
 <a id="Redo"></a>
 
 ## ![Redo icon](images/Redo-icon.png) Redo
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>Y</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>Y</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>Y</kbd> (<kbd>⌘</kbd> + <kbd>Y</kbd>)
 
 <a id="CutText"></a>
 
@@ -30,7 +30,7 @@ Copy the selected text to the clipboard
 
 Find the previous occurrence of the previously searched text
 
-Shortcut: <kbd>Shift</kbd> + <kbd>F3</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>F3</kbd>)
+Shortcut: <kbd>Shift</kbd> + <kbd>F3</kbd> (<kbd>⇧</kbd> + <kbd>F3</kbd>)
 
 <a id="SaveAsText"></a>
 
@@ -38,7 +38,7 @@ Shortcut: <kbd>Shift</kbd> + <kbd>F3</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>F
 
 Save the text in a file (new or exising) selected in the file chooser
 
-Shortcut: <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>S</kbd>)
+Shortcut: <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd> (<kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>S</kbd>)
 
 <a id="SaveText"></a>
 
@@ -46,7 +46,7 @@ Shortcut: <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd> (macOS: <kbd>⇧ Shi
 
 Save the changes to the file
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>S</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>S</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>S</kbd> (<kbd>⌘</kbd> + <kbd>S</kbd>)
 
 <a id="PasteText"></a>
 

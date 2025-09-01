@@ -20,7 +20,7 @@ In connection settings, action to send the application logs to a server for exam
 
 Copy the location of the currently selected panel to the clipboard
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>L</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>L</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>L</kbd> (<kbd>⌘</kbd> + <kbd>L</kbd>)
 
 <a id="ShowTipOfTheDay"></a>
 

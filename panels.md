@@ -94,7 +94,7 @@ Remove the current tab
 
 Replace the currently selected view file panel with a directory table of the parent directory
 
-Shortcut: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>UP</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>⌥ Option</kbd> + <kbd>UP</kbd>)
+Shortcut: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>UP</kbd> (<kbd>⇧</kbd> + <kbd>⌥</kbd> + <kbd>UP</kbd>)
 
 <a id="RemovePanel"></a>
 
@@ -102,7 +102,7 @@ Shortcut: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>UP</kbd> (macOS: <kbd>⇧ Shi
 
 Remove the currently selected panel
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>W</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>W</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>W</kbd> (<kbd>⌘</kbd> + <kbd>W</kbd>)
 
 <a id="ShowClipboard"></a>
 
@@ -118,7 +118,7 @@ Open a view file panel with the content of the clipboard
 
 Replace the currently selected panel with a view panel of the selected file
 
-Shortcut: <kbd>Shift</kbd> + <kbd>F3</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>F3</kbd>)
+Shortcut: <kbd>Shift</kbd> + <kbd>F3</kbd> (<kbd>⇧</kbd> + <kbd>F3</kbd>)
 
 <a id="PanelConfiguration"></a>
 
@@ -168,7 +168,7 @@ Open a new tab with a view panel of the selected file
 
 Add a new panel. Show a window
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>N</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>N</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>N</kbd> (<kbd>⌘</kbd> + <kbd>N</kbd>)
 
 ![Add Panel screenshot](images/AddPanel-screenshot.png)
 
@@ -178,7 +178,7 @@ Shortcut: <kbd>Ctrl</kbd> + <kbd>N</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>N
 
 Execute a command line in a new shell window
 
-Shortcut: <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>F9</kbd> (macOS: <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>F9</kbd>)
+Shortcut: <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>F9</kbd> (<kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>F9</kbd>)
 
 ![Execute command screenshot](images/ExecuteCommand-screenshot.png)
 

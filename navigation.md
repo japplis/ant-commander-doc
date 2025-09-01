@@ -14,7 +14,7 @@ For the github file system, go to the GitHub website of the current directory
 
 Open a window to select a new location for the current panel
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>G</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>G</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>G</kbd> (<kbd>⌘</kbd> + <kbd>G</kbd>)
 
 ![Go To... screenshot](images/GoTo-screenshot.png)
 
@@ -36,7 +36,7 @@ Go to the location that the link is pointing to
 
 Go to the location of the super bookmark n°1
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>1</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>1</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>1</kbd> (<kbd>⌘</kbd> + <kbd>1</kbd>)
 
 <a id="SuperBookmark2"></a>
 
@@ -44,7 +44,7 @@ Shortcut: <kbd>Ctrl</kbd> + <kbd>1</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>1
 
 Go to the location of the super bookmark n°2
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>2</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>2</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>2</kbd> (<kbd>⌘</kbd> + <kbd>2</kbd>)
 
 <a id="SuperBookmark3"></a>
 
@@ -52,7 +52,7 @@ Shortcut: <kbd>Ctrl</kbd> + <kbd>2</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>2
 
 Go to the location of the super bookmark n°3
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>3</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>3</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>3</kbd> (<kbd>⌘</kbd> + <kbd>3</kbd>)
 
 <a id="Forward"></a>
 
@@ -104,7 +104,7 @@ Go to the user home directory
 
 Go to the parent directory of the current location
 
-Shortcut: <kbd>Alt</kbd> + <kbd>UP</kbd> (macOS: <kbd>⌥ Option</kbd> + <kbd>UP</kbd>)
+Shortcut: <kbd>Alt</kbd> + <kbd>UP</kbd> (<kbd>⌥</kbd> + <kbd>UP</kbd>)
 
 <a id="AddPlugInBookmark"></a>
 
@@ -140,7 +140,7 @@ Open the next file in the same directory
 
 Add a bookmark
 
-Shortcut: <kbd>Ctrl</kbd> + <kbd>B</kbd> (macOS: <kbd>⌘ Command</kbd> + <kbd>B</kbd>)
+Shortcut: <kbd>Ctrl</kbd> + <kbd>B</kbd> (<kbd>⌘</kbd> + <kbd>B</kbd>)
 
 <a id="PlugInBookmark"></a>
 
