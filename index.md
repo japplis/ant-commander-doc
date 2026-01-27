@@ -33,7 +33,7 @@ Powershell, Git bash, Cygwin, WSL2 will only show if they are installed on your 
 | USB Sticks              | tar            | sftp/ftps | GitHub          |
 | Mounted network drives  | gzip/bzip2     | WebDAV    | Cluster         |
 | Shared drives/UNC Paths | Z, xz          | http(s)   | Bookmark        |
-|                         | LZ4            | S3        | Bookmark file   |
+|                         | LZ4            | Rclone    | Bookmark file   |
 |                         |                | Smb, smb2 | RAM             |
 |                         |                | NFS3      |                 |
 

@@ -56,6 +56,7 @@
 * ![Unpack in directory icon](images/UnpackAtParent-icon.png) [Unpack in directory](files.md#UnpackAtParent)
 * ![Verify checksum icon](images/CheckFile-icon.png) [Verify checksum](files.md#CheckFile)
 * ![View in GitHub icon](images/ViewInGithub-icon.png) [View in GitHub](files.md#ViewInGithub)
+* [Share Directory](files.md#ShareDirectory)
 
 ## Panels
 * ![Add Panel icon](images/AddPanel-icon.png) [Add Panel](panels.md#AddPanel)
@@ -101,7 +102,6 @@
 * ![Go to GitHub icon](images/GoToGithub-icon.png) [Go to GitHub](navigation.md#GoToGithub)
 * ![Go to Link icon](images/GoToLink-icon.png) [Go to Link](navigation.md#GoToLink)
 * ![Go to Matching icon](images/GoToMatching-icon.png) [Go to Matching](navigation.md#GoToMatching)
-* ![Go to S3 icon](images/GoToS3-icon.png) [Go to S3](navigation.md#GoToS3)
 * ![Go To Selected File icon](images/Selection-icon.png) [Go To Selected File](navigation.md#Selection)
 * ![Go to text field icon](images/GoToTextField-icon.png) [Go to text field](navigation.md#GoToTextField)
 * ![Home icon](images/Home-icon.png) [Home](navigation.md#Home)

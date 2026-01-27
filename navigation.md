@@ -120,14 +120,6 @@ Create/Open a cluster file system
 
 ![Go to Cluster screenshot](images/GoToCluster-screenshot.png)
 
-<a id="GoToS3"></a>
-
-## ![Go to S3 icon](images/GoToS3-icon.png) Go to S3
-
-Open a S3 file system
-
-![Go to S3 screenshot](images/GoToS3-screenshot.png)
-
 <a id="NextDirFile"></a>
 
 ## ![Next icon](images/NextDirFile-icon.png) Next

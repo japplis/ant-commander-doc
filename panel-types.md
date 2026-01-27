@@ -113,6 +113,12 @@ For Windows users, if you have Windows Subsytem for Linux 2 install, you will ha
 Tree Map Grid panel will show files and directories inside a directory in a grid. The size of each cell is proportianal to the size of the file or directory.
 Sub-directories are buttons that can be clicked on to navigate to this sub-directory.
 
+You can choose with the toolbar icons if you want to see only files or directories.
+
+There are many view mode: Grid, multi-level colored tree map, vertical bar, horizontal bar and disc.
+
+It is possible to click on directories to see the details of this directory.
+
 ![Tree Map Grid screenshot](images/tree-map-grid.png)
 
 ### Applet Runner

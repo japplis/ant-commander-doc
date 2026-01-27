@@ -423,3 +423,12 @@ Add the selected files to Git ignore
 
 For github file system, go to the GitHub website of the current location
 
+<a id="ShareDirectory"></a>
+
+## Share Directory
+
+This opens a FTP server user interface, you can add users to share the current directory (and sub directories).
+
+You can specify if read-only and filter which kind of file to offer.
+
+Compared to another FTP server that shares local files, Ant Commander Pro FTP Server can share any file of the supported file systems.
